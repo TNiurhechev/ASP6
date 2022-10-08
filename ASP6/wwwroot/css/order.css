@@ -1,0 +1,10 @@
+﻿body {
+}
+input {
+    border-radius: 10px;
+    border-width: .5px;
+    width: 120px;
+}
+form {
+    font-size: 20px;
+}

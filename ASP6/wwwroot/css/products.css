@@ -1,0 +1,24 @@
+﻿body {
+}
+ul {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+}
+.pizza-row {
+    display: table;
+    border-spacing: 120px;
+    border-bottom: 0px;
+    border-top: 0px;
+}
+.pizza-col {
+    display: table-cell;
+}
+.pizza-name {
+    font-size: 36px;
+    color: limegreen;
+}
+.ingredients {
+    text-align: left;
+    font-size: 20px;
+}
